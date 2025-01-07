@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shivraj-Joshi
-- 👀 I’m interested in FrontEnd Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React⚛️
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
