@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivraj-Joshi
 - 👀 I’m interested in Web Development
-- 🧠 I’m currently learning NextJs⚛️
+- 🧠 I’m currently learning Backend
 - 📫 How to reach me - email:- iamshivrajjoshi07@gmail.com
 - 😄 Pronouns: He/Him
 <!---
