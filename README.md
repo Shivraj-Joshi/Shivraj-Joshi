@@ -19,8 +19,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shivraj-Joshi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shivraj-Joshi&layout=compact&theme=tokyonight)
+<p> ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shivraj-Joshi&show_icons=true&theme=tokyonight) </p>
+<p> ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shivraj-Joshi&layout=compact&theme=tokyonight) </p>p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivraj-joshi&show_icons=true&locale=en&layout=compact" alt="shivraj-joshi" /></p>
 
